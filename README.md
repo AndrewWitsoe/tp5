@@ -6,4 +6,4 @@ On Sunday, October 2nd I viewed the "tp5" video on Panopto, after viewing the ot
  - Tweaking CSS and HTML to fit the JavaScript code given throughout the instructional video
  - Implementing and tweaking the JavaScript code given throughout the instructional video 
  - Fixing errors in my code (which were due to standard errors and grammar errors) 
- - Learning more about the Intricacies of JavaScript and Functions
+ - Learning more about the Intricacies of JavaScript and Functions based on the videos viewed in Unit 2. 
